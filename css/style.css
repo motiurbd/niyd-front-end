@@ -1,0 +1,60 @@
+.div-one {
+    height: 200px;
+    width: 20%;
+    background-color: red;
+    float: left;
+}
+
+.div-two {
+    height: 200px;
+    width: 80%;
+    background-color: green;
+    float: left;
+}
+
+.div-three{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+    float: left;
+}
+.div-four{
+   height: 600px;
+    width: 18%;
+    background-color: yellow;
+    float: left;
+}
+.div-five{
+   height: 600px;
+    width: 82%;
+    background-color: red;
+    float: left;
+}
+
+.div-six{
+   height: 200px;
+    width: 33%;
+    background-color: rgb(33, 178, 71);
+    float: left;
+}
+
+.div-seven{
+   height: 200px;
+    width: 34%;
+    background-color: rgb(29, 8, 147);
+    float: left;
+}
+
+.div-eight{
+   height: 200px;
+    width: 33%;
+    background-color: rgb(152, 203, 64);
+    float: left;
+}
+
+.div-nine{
+   height: 50px;
+    width: 100%;
+    background-color: rgb(96, 40, 227);
+    float: left;
+}
